@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalluri Raga Hasini</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from IIIT Gwalior</h3>
 
 - 🔭 I’m currently working on **full-stack web development projects using React and Node.js**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **beginner-friendly open-source projects**
 
-- 🤝 I’m looking for help with **improving backend architecture and system design**
+- 🤝 I’m looking for help with learning cloud computing and scalable backend architecture**
 
 - 💬 Ask me about **JavaScript, React,SQL....**
 
